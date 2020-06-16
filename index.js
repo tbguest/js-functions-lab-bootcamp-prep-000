@@ -15,3 +15,5 @@ function happyCustomHolidayTo(holiday, name) {
 function holidayCountdown(holiday, days) {
   `It's ${days} days until ${holiday}!`
 }
+
+console.log(happyHolidaysTo(you))
